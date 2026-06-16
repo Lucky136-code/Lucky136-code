@@ -20,7 +20,6 @@ Specializing in integrating production-grade Deep Learning models with highly pe
 - 🌱 I’m currently exploring **LLMs, RAG pipelines, and agentic workflows**
 - 💬 Ask me about **PyTorch, TensorFlow, FastAPI, Next.js, or React**
 - 📧 Reach me at **[luckyyadav1180@gmail.com](mailto:luckyyadav1180@gmail.com)**
-- 📱 WhatsApp: **+91 9304277935**
 - 💼 LinkedIn: **[luckyanish136](https://www.linkedin.com/in/luckyanish136)**
 
 ---
