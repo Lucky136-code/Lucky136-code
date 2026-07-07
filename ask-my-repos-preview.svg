@@ -1,0 +1,55 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated preview of Lucky's repo agent answering questions">
+<title>ask-my-repos.agent — live preview</title>
+<defs>
+<clipPath id="rc"><rect x="0" y="0" width="900" height="220" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#rc)">
+<rect x="0" y="0" width="900" height="220" fill="#0A0C0B"/>
+<rect x="0" y="0" width="900" height="40" fill="#121614"/>
+<line x1="0" y1="40" x2="900" y2="40" stroke="#232B27" stroke-width="1"/>
+<circle cx="24" cy="20" r="4" fill="#4FD1C5"/>
+<text x="38" y="25" font-family="Menlo, Consolas, monospace" font-size="13" fill="#7C8580">ask-my-repos<tspan fill="#4FD1C5">.agent</tspan></text>
+<text x="876" y="25" font-family="Menlo, Consolas, monospace" font-size="11" fill="#7C8580" text-anchor="end">live preview</text>
+
+<g font-family="Menlo, Consolas, monospace" font-size="15">
+<g opacity="0">
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25" dur="16s" begin="0s" repeatCount="indefinite" fill="freeze"/>
+<text x="30" y="75" fill="#7C8580">&gt; visitor:</text>
+<text x="140" y="75" fill="#E7E5DE">who are you?</text>
+<text x="30" y="105" fill="#4FD1C5">~ agent:</text>
+<text x="30" y="130" fill="#E7E5DE">Lucky Anish — AI/ML engineer, founder of Agentlayer &amp; Retix,</text>
+<text x="30" y="152" fill="#E7E5DE">building agentic AI systems and LLM products.</text>
+</g>
+
+<g opacity="0">
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25" dur="16s" begin="4s" repeatCount="indefinite" fill="freeze"/>
+<text x="30" y="75" fill="#7C8580">&gt; visitor:</text>
+<text x="140" y="75" fill="#E7E5DE">what's VICTOR?</text>
+<text x="30" y="105" fill="#4FD1C5">~ agent:</text>
+<text x="30" y="130" fill="#E7E5DE">A bot-detection system — Isolation Forest + XGBoost ensemble</text>
+<text x="30" y="152" fill="#E7E5DE">with SHAP explainability and a live Streamlit dashboard.</text>
+</g>
+
+<g opacity="0">
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25" dur="16s" begin="8s" repeatCount="indefinite" fill="freeze"/>
+<text x="30" y="75" fill="#7C8580">&gt; visitor:</text>
+<text x="140" y="75" fill="#E7E5DE">explain the MCP server</text>
+<text x="30" y="105" fill="#4FD1C5">~ agent:</text>
+<text x="30" y="130" fill="#E7E5DE">A Job Search MCP server — 6 tools over the Remotive API,</text>
+<text x="30" y="152" fill="#E7E5DE">FastMCP + SQLite persistence. Anthropic MCP certified.</text>
+</g>
+
+<g opacity="0">
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25" dur="16s" begin="12s" repeatCount="indefinite" fill="freeze"/>
+<text x="30" y="75" fill="#7C8580">&gt; visitor:</text>
+<text x="140" y="75" fill="#E7E5DE">where are you based?</text>
+<text x="30" y="105" fill="#4FD1C5">~ agent:</text>
+<text x="30" y="130" fill="#E7E5DE">Jaipur, Rajasthan, India — final-year B.Tech AI/ML student</text>
+<text x="30" y="152" fill="#E7E5DE">at NIMS University, actively looking for AI/ML roles.</text>
+</g>
+</g>
+
+<line x1="0" y1="180" x2="900" y2="180" stroke="#232B27" stroke-width="1"/>
+<text x="30" y="202" font-family="Menlo, Consolas, monospace" font-size="12" fill="#7C8580">try it yourself → lucky136-code.github.io</text>
+</g>
+</svg>
