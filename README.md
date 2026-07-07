@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Lucky+Anish!;AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Building+intelligent+architectures" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Lucky!;AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Building+intelligent+architectures" alt="Typing animation" />
 </div>
   
 <div align="center">
@@ -16,7 +16,6 @@ Specializing in integrating production-grade Deep Learning models with highly pe
 - 🌱 I’m currently exploring **LLMs, RAG pipelines, and agentic workflows**
 - 💬 Ask me about **PyTorch, TensorFlow, FastAPI, Next.js, or React**
 - 📧 Reach me at **[luckyyadav1180@gmail.com](mailto:luckyyadav1180@gmail.com)**
-- 📱 WhatsApp: **+91 9304277935**
 - 💼 LinkedIn: **[luckyanish136](https://www.linkedin.com/in/luckyanish136)**
 
 ---
@@ -29,7 +28,7 @@ Specializing in integrating production-grade Deep Learning models with highly pe
 
 ---
 
-## 🐍 Snake Contribution Grid
+## Contribution
 
 <div align="center">
   <picture>
