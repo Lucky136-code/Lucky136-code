@@ -6,10 +6,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
 </div>
 
-<div align="center">
-  <!-- Visitor Counter Badge -->
-  <img src="https://profile-counter.glitch.me/Lucky136-code/count.svg" alt="Visitor Count" />
-</div>
 
 ## 🚀 About Me
 
@@ -29,19 +25,6 @@ Specializing in integrating production-grade Deep Learning models with highly pe
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,nodejs,react,nextjs,ts,js,tailwind,html,css,postgres,mongodb,supabase,git,docker,linux" alt="Tech Stack" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucky136-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lucky's GitHub Stats" />
-  </a>
-  <a href="https://github.com/ashutoshgawr/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucky136-code&theme=tokyonight&hide_border=true&background=0D1117" alt="Lucky's GitHub Streak" />
-  </a>
 </div>
 
 ---
