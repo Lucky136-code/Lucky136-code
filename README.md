@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4E37,100:3E2723&height=180&section=header&text=Lucky%20Anish&fontSize=42&fontColor=F5EBDD&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%26%20Computer%20Vision&descSize=16&descAlignY=62" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4E37,100:3E2723&height=160&section=header&text=Lucky%20Anish&fontSize=40&fontColor=F5EBDD&cache_seconds=1800" alt="Lucky Anish" width="100%" />
+  <h3>AI/ML Engineer &nbsp;|&nbsp; Agentic Systems &amp; Computer Vision</h3>
 </div>
 
 <div align="center">
@@ -88,5 +89,5 @@ Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,100:6F4E37&height=100&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,100:6F4E37&height=100&section=footer&cache_seconds=1800" alt="" width="100%" />
 </div>
