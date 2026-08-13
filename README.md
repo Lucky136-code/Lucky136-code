@@ -86,13 +86,6 @@ Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky136-code&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky136-code&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="170" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,100:6F4E37&height=100&section=footer&cache_seconds=1800" alt="" width="100%" />
 </div>
