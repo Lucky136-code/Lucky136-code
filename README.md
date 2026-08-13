@@ -89,3 +89,5 @@ Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,100:6F4E37&height=100&section=footer&cache_seconds=1800" alt="" width="100%" />
 </div>
+
+<!-- updated -->
