@@ -13,33 +13,36 @@
 
 ## Summary
 
-Final-year B.Tech (AI/ML) student with 5+ end-to-end projects spanning agentic AI, computer vision, NLP/RAG, and backend systems. Certified in Anthropic's Model Context Protocol (MCP), NVIDIA DLI, and Google Cloud Generative AI. Builds production-oriented systems combining LLM tool-calling, real-time CV pipelines, and full-stack engineering — currently seeking an AI/ML or Agentic AI internship.
+Final-year B.Tech (AI/ML) student who ships measurable, production-oriented systems — a from-scratch Kalman-filter tracker cutting RMSE by 31% and jitter by 86% over a baseline, and a fully tested identity-reconciliation backend (13/13 passing) — spanning computer vision, NLP/RAG, and agentic LLM tool-calling. Finalist among 5,25,000+ students in QuizOff 2026, India's Biggest AI Quiz; certified in Anthropic's MCP, NVIDIA DLI, and Google Cloud Generative AI. Seeking an AI/ML or Agentic AI internship.
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript / TypeScript, Java, Go, Rust, SQL
+**Languages:** Python, C++, C, JavaScript, HTML/CSS
 
 **AI / ML:** PyTorch, TensorFlow, Keras, Scikit-Learn, HuggingFace Transformers, LangChain, RAG, OpenCV, YOLOv8, BERT, LLMs, Agentic AI, MCP
 
 **Web / Backend:** React, Next.js, Node.js, Express, FastAPI, Flask, REST APIs, Prisma, MongoDB, PostgreSQL, Supabase, ChromaDB / FAISS
 
-**Tools & Infra:** Docker, Git, GitHub, GitHub Actions, Kubernetes, Linux, Vercel, Anthropic SDK, Playwright, Tauri, Jest
+**Tools & Infra:** Docker, Git, GitHub, GitHub Actions, Kubernetes, Linux, Vercel, Anthropic SDK, Playwright, Jest
+
+---
+
+## Experience
+
+**Machine Learning Intern · CodeAlpha** *(Sep 2025 – Oct 2025)*
+- Built a disease prediction model using patient medical data and classification algorithms (Scikit-Learn) to estimate disease likelihood from health indicators.
+- Built a credit score prediction model applying supervised learning on financial/credit history data to classify creditworthiness.
 
 ---
 
 ## Projects
 
-### [AgentOS — Agent-Native OS Layer](https://github.com/Lucky136-code/AgentOS)
-`Tauri` `Rust` `TypeScript` `Whisper` `LLM Tool-Calling`
-- Built a cross-platform desktop agent enabling AI tool registration, persistent memory, and autonomous task execution for agent-native software infrastructure.
-- Integrated OpenAI Whisper for voice input and LLM tool-calling on a Tauri/Rust shell, achieving near-native desktop performance.
-
-### [Vehicle Detection, Classification & Speed Estimation](https://github.com/Lucky136-code/MultiObjTracking)
-`Python` `YOLOv8` `ByteTrack / DeepSORT` `OpenCV` `Streamlit`
-- Engineered a real-time computer vision pipeline that detects, classifies (car/truck/bus/motorcycle), and tracks vehicles across live and recorded traffic camera feeds using YOLOv8 with persistent multi-object tracking.
-- Designed a pixel-to-real-world calibration model to estimate vehicle speed (km/h) and flag overspeeding events, with CSV/JSON logging and an optional Streamlit analytics dashboard.
+### [Agentic AutoML Framework](https://github.com/Lucky136-code/AutoMLframework)
+`Python` `Pytest` `Ruff` `Mypy` `GitHub Actions CI` `Pre-commit`
+- Architecting an explainable AutoML framework built on an Advisor design pattern (Analyzer → Strategist → Executor → Narrator), where every pipeline stage both transforms data and logs a structured rationale for its decision.
+- Shipped the core decision-logging abstraction with full CI, linting, and packaging in place — Phase 0 of a 9-phase roadmap toward automated preprocessing, model selection, and SHAP-based explainability.
 
 ### [Identity Reconciliation Backend Service](https://github.com/Lucky136-code/-Identity-Reconciliation-)
 `Node.js` `Express` `Prisma` `SQLite` `Jest`
@@ -51,22 +54,23 @@ Final-year B.Tech (AI/ML) student with 5+ end-to-end projects spanning agentic A
 - Developed an end-to-end Retrieval-Augmented Generation pipeline: PDF ingestion → chunking → FAISS vector store → LangChain RetrievalQA, evaluated using RAGAs.
 - Shipped a multi-turn React chat interface over a FastAPI backend for interactive, source-grounded document Q&A.
 
-### [Bitcoin Market Sentiment vs. Trader Performance](https://github.com/Lucky136-code/PrimeTradeAi)
-`Python` `Pandas` `Jupyter` `Data Analysis` `Visualization`
-- Analyzed the relationship between Bitcoin market sentiment (Fear & Greed Index) and Hyperliquid trader performance through a structured data-cleaning, exploratory-analysis, and visualization workflow.
-- Surfaced sentiment-driven trading patterns to inform hypotheses on how market mood correlates with trader profitability.
+### [Advanced Multi-Object Tracking with a Kalman Filter (First Principles)](https://github.com/Lucky136-code/Advanced-Multi-Object-Tracking)
+`Python` `NumPy` `SciPy (Hungarian Algorithm)` `OpenCV` `YOLOv8` `Pytest`
+- Implemented a Kalman filter and SORT-style multi-object tracker from first principles in NumPy — state prediction, Joseph-form covariance update, and Hungarian-algorithm data association — validated with 20+ unit tests.
+- Benchmarked against a One Euro Filter baseline on synthetic noisy trajectories, cutting RMSE by up to 31% and position jitter by up to 86% under high-noise conditions while maintaining zero prediction lag through simulated occlusion.
 
 ---
 
 ## Education
 
-**B.Tech — Artificial Intelligence & Machine Learning**, NIMS University, Jaipur
+**B.Tech — Artificial Intelligence & Machine Learning**, NIMS University, Jaipur  
 Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS, OS, Computer Networks & Security
 
 ---
 
 ## Certifications
 
+- Software Engineering Job Simulation — JPMorgan Chase & Co. / Forage — Jun 2026
 - Introduction to Model Context Protocol — Anthropic (ID: 5utqn2pfrk7n) — Jun 2026
 - Getting Started with AI on Jetson Nano — NVIDIA Deep Learning Institute (ID: jjzDXD9kS3u4lOXSbhuMUw) — Dec 2025
 - Introduction to Generative AI Studio — Google Cloud / Simplilearn (ID: 9638839) — Dec 2025
@@ -75,9 +79,10 @@ Coursework: Deep Learning, NLP, Computer Vision, Machine Learning, AI, DSA, DBMS
 
 ## Achievements
 
-- Shipped 5+ end-to-end ML, computer vision, and agentic AI projects within 6 months, from data pipeline to deployment.
-- Certified in Anthropic's Model Context Protocol (MCP), NVIDIA Deep Learning Institute, and Google Cloud Generative AI.
-- Active open-source contributor under the Agentic-IQ GitHub organization since April 2026.
+- 🏆 **Finalist, QuizOff 2026** — India's Biggest AI Quiz (CampusCrew, hosted on Unstop), competing among 5,25,000+ students from 48,500+ institutions across 35+ countries — Jul 2026
+- 🚀 Shipped 4+ end-to-end ML, computer vision, and backend/LLM projects within 6 months, from data pipeline to deployment
+- 🤝 Active open-source contributor under the **Agentic-IQ** GitHub organization since April 2026
+- 📜 Certified in Anthropic's Model Context Protocol (MCP), NVIDIA Deep Learning Institute, and Google Cloud Generative AI
 
 ---
 
